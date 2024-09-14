@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://raihv.github.io/qGE/sitemap.qGE.gz
